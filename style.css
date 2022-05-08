@@ -1,0 +1,35 @@
+*{
+box-sizing: border-box;
+}
+body{
+  background: black;
+
+}
+
+button{
+  background:rgb(20, 20, 20) ;
+  margin-top: 300px;
+  color:rgb(254, 221, 7);
+  height: 40px;
+  border-radius: 3px;
+  width:15%;
+  float:right;
+}
+h1{
+  color:rgb(241, 241, 180);
+}
+
+ul li{
+  color:white;
+  padding:12px;
+}
+button:hover{
+  background:rgb(250, 250, 248);
+  color:rgb(6, 5, 5);
+}
+
+
+.gifPic{
+  float:right;
+  border-radius:9px;
+}
