@@ -10,7 +10,7 @@ function getChar() {
   
      
 
-   let urlTwo = `https://g.tenor.com/v1/search?q=${data.data[0].name}&key=LNY6YHE897NU&limit=1`
+   let urlTwo = `https://g.tenor.com/v1/search?q=${data.data[17].name}&key=LNY6YHE897NU&limit=1`
   fetch(urlTwo)
     .then(res => res.json()) 
     // parse response as JSON 
