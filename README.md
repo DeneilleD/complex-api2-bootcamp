@@ -2,14 +2,9 @@
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 # 📊 Project:Simple API 2
-
-### Goal: Display data returned from an api
-
-Build an application that allows users to input a date and view Disney characters
-**Link to project: https://ddcomplextwo.netlify.app/ 
-
-###  My Simple API Project
 This project highlights my use of HTML, CSS and javaScript; a nostalgic list of data displaying characters names from Disney Channel.
+
+**Link to project: https://ddcomplextwo.netlify.app/ 
 
 ![snip](pic.PNG)
 
